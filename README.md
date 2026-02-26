@@ -38,7 +38,7 @@ Sprint Reviews are most effective when the focus stays on the **product**, not t
 
 ---
 
-# 📥 Access the Template (Google Sheets)
+# 📥 Access the Template (Google Slides)
 
 **Open the template here:**  
 https://docs.google.com/presentation/d/19Cg7nmptk1TmKIzfsX1r5jmmfie0qWt6K9_dj7boUgA/edit?usp=sharing
